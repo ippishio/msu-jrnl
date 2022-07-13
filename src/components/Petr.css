@@ -20,5 +20,21 @@ h2{
     font-family: 'Montserrat';
 }
 a {
-    font-family: 'nunito';
+    font-family: 'Montserrat';
+}
+.petya {
+    width: 20%; 
+    border-radius: 10px; 
+    float:left;
+    text-align:middle;
+
+}
+.anek {
+    font-size: 40px;
+}
+.divv {
+    text-align: center;
+}
+.catcreate {
+    font-size: 30px; height: 10%;width:300px;
 }
