@@ -1,0 +1,35 @@
+.head{
+    width: 100vw;
+    height: 60vh;
+    background-color: #cccccc;
+    
+}
+
+.head-flex{
+   
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-left:30%
+
+}
+.head-f{
+   
+    margin-top: 20%;
+}
+.head_z{
+    
+    font-weight: bold;
+    font-size: 39px;
+    text-align: right;
+    
+   
+}
+.head_p{
+    
+    font-size: 25px;
+    text-align: right;
+
+   
+}

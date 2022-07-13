@@ -1,0 +1,22 @@
+.t-flex{
+    height: 70vh;
+    background-color: white;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.t-div{
+    margin-top: 5%;
+    width: 60%;
+}
+.t-h{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.t-p{
+    margin-top: 2%;
+    font-size: 24px;
+}
