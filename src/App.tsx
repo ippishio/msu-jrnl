@@ -13,7 +13,7 @@ function App() {
       <Head/>
       <Text/>
       <Sw/>
-     <Petr/>
+     т
     </div>
    
   )

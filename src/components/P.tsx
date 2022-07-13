@@ -17,12 +17,13 @@ const Petr = ()=>{
 </div>
 <div>
 <p >
-<img className = "petya" src="petya.jpg"> <a className="anek">"У берегов Голландии перевернулся танкер. Перевернулся и поплыл на спинке."</a> </img>
+{/* <img className = "petya" src="petya.jpg"> <a className="anek">"У берегов Голландии перевернулся танкер. Перевернулся и поплыл на спинке."</a> </img> */}
 </p>
 </div>
 <div>
 <p>
-   <a className="anek">"Идёт мужик,видит – анекдот лежит, перевернул, а там:wɐɯ ɐ ‘vʎнdǝʚǝdǝu 'ɯижǝv ɯоɓʞǝнɐ – ɯиɓиʚ‘ʞижʎw ɯǝ̤ɓи</a>  <img src="petya_mirror.jpg" className="petya"> </img> 
+   <a className="anek">"Идёт мужик,видит – анекдот лежит, перевернул, а там:wɐɯ ɐ ‘vʎнdǝʚǝdǝu 'ɯижǝv ɯоɓʞǝнɐ – ɯиɓиʚ‘ʞижʎw ɯǝ̤ɓи</a>  
+   {/* <img src="petya_mirror.jpg" className="petya"> </img>  */}
     </p>
 </div>
 
