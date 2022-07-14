@@ -49,7 +49,7 @@ return (
       <SwiperSlide>
         <div className="S-flex">
           <div className="S"><img src='19.jpg' ></img></div>
-          <div className="S-p"><p>"Что наша жизнь? Семь лет до школы и три года после пенсии"</p></div>
+          <div className="S-p"><p>"Люди зажаты между прошлым, за которое им стыдно, и будущим, которое их пугает"</p></div>
         </div>
          
          </SwiperSlide>
@@ -77,14 +77,14 @@ return (
          <SwiperSlide>
         <div className="S-flex">
           <div className="S"><img src='23.jpg' ></img></div>
-          <div className="S-p"><p>"Чьо какая цитата я сплю...."</p></div>
+          <div className="S-p"><p>"Чьо какая цитата я сплю..."</p></div>
         </div>
          
          </SwiperSlide>
          <SwiperSlide>
         <div className="S-flex">
           <div className="S"><img src='24.jpg' ></img></div>
-          <div className="S-p"><p>"Что наша жизнь? Семь лет до школы и три года после пенсии"</p></div>
+          <div className="S-p"><p>"Мы знаем, кто мы есть, но не знаем, кем мы можем быть"</p></div>
         </div>
          
          </SwiperSlide>
