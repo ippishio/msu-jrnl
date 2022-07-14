@@ -11,10 +11,12 @@ function App() {
   return (
     <div>
       <Head/>
-      
+
       <Sw/>
 
       <Text/>
+      
+      <Petr/>
       
      
     </div>

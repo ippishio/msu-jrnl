@@ -1,16 +1,4 @@
 h1{
-    text-align: center;
-}
-.a{
-    text-align:center;
-}
-.a1{
-    text-align: right;
-}
-.a2{
-    text-align: left;
-}
-h1{
     font-family: 'Montserrat';
 }
 h3{
@@ -22,19 +10,15 @@ h2{
 a {
     font-family: 'Montserrat';
 }
-.petya {
-    width: 20%; 
-    border-radius: 10px; 
-    float:left;
-    text-align:middle;
-
-}
-.anek {
-    font-size: 40px;
-}
-.divv {
-    text-align: center;
-}
 .catcreate {
     font-size: 30px; height: 10%;width:300px;
+}
+.centerdiv {
+    text-align: center;
+}
+.petyaimg {
+    width: 20%; border-radius: 10px; float:left
+}
+.anektext {
+    font-size: 40px;
 }

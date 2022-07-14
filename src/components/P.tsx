@@ -1,4 +1,7 @@
 import React from "react";
+import "../img/petya.jpg"
+import "../img/petya_mirror.jpg"
+import "../index.js"
 const Petr = ()=>{
     return(
         <div  className="a" >
@@ -16,14 +19,16 @@ const Petr = ()=>{
  </h1>
 </div>
 <div>
-<p >
-{/* <img className = "petya" src="petya.jpg"> <a className="anek">"У берегов Голландии перевернулся танкер. Перевернулся и поплыл на спинке."</a> </img> */}
+<p>
+<img src='petya.jpg' ></img> 
+     <a className="anek">"У берегов Голландии перевернулся танкер. Перевернулся и поплыл на спинке."</a> 
 </p>
 </div>
 <div>
 <p>
    <a className="anek">"Идёт мужик,видит – анекдот лежит, перевернул, а там:wɐɯ ɐ ‘vʎнdǝʚǝdǝu 'ɯижǝv ɯоɓʞǝнɐ – ɯиɓиʚ‘ʞижʎw ɯǝ̤ɓи</a>  
-   {/* <img src="petya_mirror.jpg" className="petya"> </img>  */}
+
+    <img src='petya.jpg' ></img>
     </p>
 </div>
 
