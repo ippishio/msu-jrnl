@@ -6,7 +6,7 @@ const Text = (props:any)=>{
 
             <div className="t-div">
               <div className="t-h">  <h2>
-                    Текст Таины
+                        Успех - это всё, что нужно современному человеку или...?
                 </h2>
                 </div>
                 <div className="t-p">

@@ -33,10 +33,10 @@ return (
     <div className="about_swip">
   <>
     <Swiper 
-    spaceBetween={30}
+    spaceBetween={100}
     centeredSlides={true}
     autoplay={{
-      delay: 2500,
+      delay: 10000,
       disableOnInteraction: false,
     }}
       pagination={true

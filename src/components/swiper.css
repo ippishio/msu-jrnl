@@ -2,7 +2,8 @@
 .about_swip{
     display: block;
     overflow-x: hidden;
-   
+   width: 100vw;
+
 }
 .about_sw{
     overflow-x: hidden;
@@ -40,7 +41,7 @@
    
   }
   .S-flex{
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     display: flex;
     flex-direction: row;
@@ -49,13 +50,13 @@
   }
   .S-p{
     margin-left: 10%;
-    margin-right: 20%;
+   
     font-size: 21px;
   }
   .S img{
     width: 50vw;
     height: 70vh; 
-    margin-left: 20%;
+    
   }
   
   
