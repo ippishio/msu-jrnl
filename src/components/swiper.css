@@ -1,7 +1,8 @@
 
 .about_swip{
+    display: block;
     overflow-x: hidden;
-    margin-top: 80%;
+    margin-top: 20%;
 }
 .about_sw{
     overflow-x: hidden;
