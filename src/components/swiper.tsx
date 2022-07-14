@@ -45,6 +45,35 @@ return (
       modules={[ Pagination,Autoplay]}
       className="mySwiper"
     >
+      
+      <SwiperSlide>
+        <div className="S-flex">
+          <div className="S"><img src='19.jpg' ></img></div>
+          <div className="S-p"><p>"Что наша жизнь? Семь лет до школы и три года после пенсии"</p></div>
+        </div>
+         
+         </SwiperSlide>
+         <SwiperSlide>
+        <div className="S-flex">
+          <div className="S"><img src='20.jpg' ></img></div>
+          <div className="S-p"><p>"Что наша жизнь? Семь лет до школы и три года после пенсии"</p></div>
+        </div>
+         
+         </SwiperSlide>
+         <SwiperSlide>
+        <div className="S-flex">
+          <div className="S"><img src='21.jpg' ></img></div>
+          <div className="S-p"><p>"Что наша жизнь? Семь лет до школы и три года после пенсии"</p></div>
+        </div>
+         
+         </SwiperSlide>
+         <SwiperSlide>
+        <div className="S-flex">
+          <div className="S"><img src='22.jpg' ></img></div>
+          <div className="S-p"><p>"Что наша жизнь? Семь лет до школы и три года после пенсии"</p></div>
+        </div>
+         
+         </SwiperSlide>
       <SwiperSlide>
         <div className="S-flex">
           <div className="S"><img src='1.jpg' ></img></div>
