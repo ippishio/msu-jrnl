@@ -36,8 +36,8 @@
   
   .swiper-slide img {
     
-    width: 30%;
-    height: 30%;
+    width: 100px;
+    height: 100px;
    
   }
   .S-flex{
@@ -49,13 +49,14 @@
     align-items: center;
   }
   .S-p{
-    margin-left: 10%;
+    margin-left: 40px;
    
     font-size: 21px;
   }
   .S img{
-    width: 50vw;
-    height: 70vh; 
+    margin-left: 50px;
+    width: 220px;
+    height: 390px; 
     
   }
   
