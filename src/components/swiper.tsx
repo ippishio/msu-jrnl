@@ -70,6 +70,20 @@ return (
          <SwiperSlide>
         <div className="S-flex">
           <div className="S"><img src='22.jpg' ></img></div>
+          <div className="S-p"><p>"Лучше сделать и ошибиться, чем не сделать и жалеть об этом"</p></div>
+        </div>
+         
+         </SwiperSlide>
+         <SwiperSlide>
+        <div className="S-flex">
+          <div className="S"><img src='23.jpg' ></img></div>
+          <div className="S-p"><p>"Чьо какая цитата я сплю...."</p></div>
+        </div>
+         
+         </SwiperSlide>
+         <SwiperSlide>
+        <div className="S-flex">
+          <div className="S"><img src='24.jpg' ></img></div>
           <div className="S-p"><p>"Что наша жизнь? Семь лет до школы и три года после пенсии"</p></div>
         </div>
          
