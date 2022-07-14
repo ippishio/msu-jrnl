@@ -9,7 +9,8 @@
 
 .t-div{
     margin-top: 5%;
-    width: 100%;
+    width: 90%;
+    text-align: center;
 }
 .t-h{
     font-size: 24px;
@@ -19,4 +20,5 @@
 .t-p{
     margin-top: 2%;
     font-size: 18px;
+    
 }
