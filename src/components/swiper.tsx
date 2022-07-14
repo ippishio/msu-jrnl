@@ -41,8 +41,8 @@ return (
     }}
       pagination={true
       }
-      navigation={true}
-      modules={[Pagination, Navigation,Autoplay]}
+      navigation={false}
+      modules={[ Pagination,Autoplay]}
       className="mySwiper"
     >
       <SwiperSlide>
