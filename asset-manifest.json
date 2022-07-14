@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/msu-jrnl/static/css/main.37e4b152.css",
-    "main.js": "/msu-jrnl/static/js/main.7b59a72b.js",
+    "main.css": "/msu-jrnl/static/css/main.642d7d02.css",
+    "main.js": "/msu-jrnl/static/js/main.c5df2542.js",
     "static/media/1.jpg": "/msu-jrnl/static/media/1.476aa0916ae71cec7ba7.jpg",
     "static/media/8.jpg": "/msu-jrnl/static/media/8.19fe31d43db2a190a772.jpg",
     "static/media/5.jpg": "/msu-jrnl/static/media/5.be6f6db0367a643d0171.jpg",
@@ -19,11 +19,11 @@
     "static/media/11.jpg": "/msu-jrnl/static/media/11.80594eaef94636b18060.jpg",
     "static/media/15.jpg": "/msu-jrnl/static/media/15.2b2037b38800f99cfb82.jpg",
     "index.html": "/msu-jrnl/index.html",
-    "main.37e4b152.css.map": "/msu-jrnl/static/css/main.37e4b152.css.map",
-    "main.7b59a72b.js.map": "/msu-jrnl/static/js/main.7b59a72b.js.map"
+    "main.642d7d02.css.map": "/msu-jrnl/static/css/main.642d7d02.css.map",
+    "main.c5df2542.js.map": "/msu-jrnl/static/js/main.c5df2542.js.map"
   },
   "entrypoints": [
-    "static/css/main.37e4b152.css",
-    "static/js/main.7b59a72b.js"
+    "static/css/main.642d7d02.css",
+    "static/js/main.c5df2542.js"
   ]
 }
