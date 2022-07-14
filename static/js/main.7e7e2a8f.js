@@ -1,0 +1,2 @@
+!function(){var e=document.getElementById("catcreate"),t=document.getElementById("catholder");e.addEventListener("click",(function(){var e=document.createElement("img");e.src="cat.gif",e.style="width: 10%",t.appendChild(e),console.log("HUI")}))}();
+//# sourceMappingURL=main.7e7e2a8f.js.map
