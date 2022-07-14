@@ -11,8 +11,9 @@ function App() {
   return (
     <div>
       <Head/>
-      <Text/>
       <Sw/>
+      <Text/>
+      
      
     </div>
    
