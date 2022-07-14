@@ -1,5 +1,5 @@
 .t-flex{
-    height: 900px;
+    height: 110%;
     background-color: white;
     
     display: flex;
@@ -22,5 +22,6 @@
     margin-left: 10px;
     margin-top: 2%;
     font-size: 18px;
+    margin-right: 5px;
     
 }

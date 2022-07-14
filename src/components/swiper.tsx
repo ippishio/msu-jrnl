@@ -42,7 +42,7 @@ return (
       pagination={true
       }
       navigation={false}
-      modules={[ Pagination,Autoplay]}
+      modules={[ Navigation,Pagination,Autoplay]}
       className="mySwiper"
     >
       
@@ -56,14 +56,14 @@ return (
          <SwiperSlide>
         <div className="S-flex">
           <div className="S"><img src='20.jpg' ></img></div>
-          <div className="S-p"><p>"Что наша жизнь? Семь лет до школы и три года после пенсии"</p></div>
+          <div className="S-p"><p>"Сильные люди не любят свидетелей своей слабости"</p></div>
         </div>
          
          </SwiperSlide>
          <SwiperSlide>
         <div className="S-flex">
           <div className="S"><img src='21.jpg' ></img></div>
-          <div className="S-p"><p>"Что наша жизнь? Семь лет до школы и три года после пенсии"</p></div>
+          <div className="S-p"><p>"К черту совершенство. Не надо его добиваться. Надо развиваться. Пусть фишки ложатся как ложатся."</p></div>
         </div>
          
          </SwiperSlide>

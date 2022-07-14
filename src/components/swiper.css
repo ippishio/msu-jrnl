@@ -2,7 +2,7 @@
 .about_swip{
     display: block;
     overflow-x: hidden;
-   width: 100vw;
+   width: 100%;
 
 }
 .about_sw{
@@ -56,7 +56,7 @@
   .S img{
     margin-left: 20px;
     width: 140px;
-    height: 300px; 
+    height: 290px; 
     
   }
   
